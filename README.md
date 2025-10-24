@@ -90,3 +90,10 @@ El análisis genera:
 - Visualizaciones informativas
 - Conclusiones basadas en datos
 - Recomendaciones estratégicas para políticas de salud
+
+
+
+
+PROYECTO
+👇👇👇👇👇👇👇👇
+https://colab.research.google.com/drive/1ubUz9PNo4TBh0YIh_4Q6kJxPfhYgZ-Xu?usp=sharing
